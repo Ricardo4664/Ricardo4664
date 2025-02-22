@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Meu nome é Ricardo Horikawa.
+Estou no 2º Semestre do curso de ADS.
+Criei essa conta a pedido da faculdade FATEC na disciplina Linguagem de Programação.
+
 <!--
 **Ricardo4664/Ricardo4664** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
